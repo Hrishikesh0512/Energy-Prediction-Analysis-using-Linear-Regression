@@ -11,8 +11,8 @@ The "Energy20.txt" dataset is used to develop models of energy consumption of ap
 #Understanding the data
 
 The general link between each of the variables X1, X2, X3, X4, X5, and the variable of interest Y was reported using scatter plots and histograms. For each variable, include 5 scatter plots, 6 histograms, and 1 or 2 words, containing the variable of interest, Y.
-*Histograms
+* Histograms
 <img src='https://github.com/Hrishikesh0512/Images/blob/main/1.png'>
-*Scatter Plots
+* Scatter Plots
 <img src='https://github.com/Hrishikesh0512/Images/blob/main/2.png'>
 
